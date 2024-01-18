@@ -24,6 +24,7 @@ python contribute.py --repository=https://github.com/created_repo_name.git
 ```
 
 ## Troubleshooting
+
 ["Help, I keep getting a 'Permission Denied (publickey)' error when I push!"](https://gist.github.com/adamjohnson/5682757)
 
 This means, on your local machine, you haven't made any SSH keys. Not to worry. Here's how to fix:
